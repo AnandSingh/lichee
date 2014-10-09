@@ -1,0 +1,3 @@
+[submodule "linux-sunxi"]
+	path = linux-sunxi
+	url = git@github.com:AnandSingh/linux-sunxi.git
