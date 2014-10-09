@@ -13,11 +13,12 @@ Customized buildroot and android build for A20 based marsboard.
 ##Build Instruction
 
 1. Build linux-3.4 image for marsboard 
- 
+
+``` 
 $cd lichee/
 $cd sunxi-linux
 $cp marsboard_defconfig .config
 $cd ../
 $./build.sh -p sun7i
 $./build.sh pack
- 
+``` 
