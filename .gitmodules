@@ -1,4 +1,0 @@
-[submodule "linux-3.4"]
-	path = linux-3.4
-url=https://github.com/Philippe12/linux-sunxi.git
-	branch = sunxi-3.4
